@@ -10,7 +10,7 @@ Python, SQL, Power BI, Tableau. One year of professional experience on internati
 
 If you only read one thing of mine, read that one. It is the clearest evidence of how I handle a result that flatters me.
 
-**[irish-aviation](https://github.com/pedrogaspar-ds/irish-aviation)** Irish passenger traffic from the Central Statistics Office, loaded into SQLite and analysed end to end: fetch scripts, five SQL queries, charts and an offline dashboard. Dublin handled 36.4 million passengers in 2025, 11.4 percent above 2019, August runs 1.77 times February, and the top ten markets are 79.0 percent of the traffic with the United Kingdom alone at 27.8 percent. Every number traces back to a cited CSO table. The dashboard is live at [pedrogaspar-ds.github.io/irish-aviation](https://pedrogaspar-ds.github.io/irish-aviation/).
+**[irish-aviation](https://github.com/pedrogaspar-ds/irish-aviation)** Irish passenger traffic from the Central Statistics Office, loaded into SQLite and analysed end to end: fetch scripts, five SQL queries, charts and an offline dashboard. Irish airports carried a record 43.5 million passengers in 2025, 14.2 percent above 2019, August 2025 runs 1.80 times February, and the top ten country markets are 83.0 percent of the traffic with the United Kingdom alone at 31.7 percent. Every number traces back to a cited CSO table. The dashboard is live at [pedrogaspar-ds.github.io/irish-aviation](https://pedrogaspar-ds.github.io/irish-aviation/).
 
 **Jaula** An Android training app I designed, built and ship to real users, now on version 13.0. I write the specification and the release notes myself and keep an automated test suite of 1,894 checks across 16 groups, all passing. Closed source, happy to demo it.
 
